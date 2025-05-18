@@ -23,7 +23,7 @@ export default function Footer() {
         </a>
         ,{" "}
         <a
-          href="https://www.linkedin.com/in/krishna-kumar-a4611123b/"
+          href="https://www.linkedin.com/in/vish-krishna/"
           target="_blank"
           rel="noopener noreferrer"
         >
