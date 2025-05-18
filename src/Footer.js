@@ -7,7 +7,7 @@ export default function Footer() {
       <p>
         Hosted on{" "}
         <a
-          href="https://github.com/kushgupta-official/Graph-algo-visualizer"
+          href="https://github.com/vish-krishna/graph-algo-visualizer"
           target="_blank"
           rel="noopener noreferrer"
         >

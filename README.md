@@ -8,7 +8,7 @@
 
 
 
-## Hosted on https://kushgupta-official.github.io/Graph-algo-visualizer/
+## Hosted on https://vish-krishna.github.io/graph-algo-visualizer/
 
 This Web Application explores the working and efficiency of 4 different Graph Algorithms (Dijkstra, A\* Search, Breadth First Search, Depth First Search) till date in finding the path between 2 Nodes where there could be Obstacles/Weights between them.</br>
 
