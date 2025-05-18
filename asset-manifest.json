@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/graph-algo-visualizer/static/css/main.935e8c68.chunk.css",
+    "main.js": "/graph-algo-visualizer/static/js/main.8ee56722.chunk.js",
+    "main.js.map": "/graph-algo-visualizer/static/js/main.8ee56722.chunk.js.map",
+    "runtime-main.js": "/graph-algo-visualizer/static/js/runtime-main.67ebe367.js",
+    "runtime-main.js.map": "/graph-algo-visualizer/static/js/runtime-main.67ebe367.js.map",
+    "static/css/2.9d2f89eb.chunk.css": "/graph-algo-visualizer/static/css/2.9d2f89eb.chunk.css",
+    "static/js/2.d8994d2b.chunk.js": "/graph-algo-visualizer/static/js/2.d8994d2b.chunk.js",
+    "static/js/2.d8994d2b.chunk.js.map": "/graph-algo-visualizer/static/js/2.d8994d2b.chunk.js.map",
+    "index.html": "/graph-algo-visualizer/index.html",
+    "precache-manifest.744d78df42b2d350266497d4dd000019.js": "/graph-algo-visualizer/precache-manifest.744d78df42b2d350266497d4dd000019.js",
+    "service-worker.js": "/graph-algo-visualizer/service-worker.js",
+    "static/css/2.9d2f89eb.chunk.css.map": "/graph-algo-visualizer/static/css/2.9d2f89eb.chunk.css.map",
+    "static/css/main.935e8c68.chunk.css.map": "/graph-algo-visualizer/static/css/main.935e8c68.chunk.css.map",
+    "static/js/2.d8994d2b.chunk.js.LICENSE.txt": "/graph-algo-visualizer/static/js/2.d8994d2b.chunk.js.LICENSE.txt",
+    "static/media/node.css": "/graph-algo-visualizer/static/media/weight.8b263d82.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ebe367.js",
+    "static/css/2.9d2f89eb.chunk.css",
+    "static/js/2.d8994d2b.chunk.js",
+    "static/css/main.935e8c68.chunk.css",
+    "static/js/main.8ee56722.chunk.js"
+  ]
+}
